@@ -4,15 +4,19 @@ En la era actual, el movimiento hacia un estilo de vida sostenible y ecológico 
 
 Requerimientos: 
 1. Sistema de autenticación para Administradores. 
-2. Gestión de Vendedores y Productos: ingreso, edición y eliminación. 3. Información de Vendedores: 
+2. Gestión de Vendedores y Productos: ingreso, edición y eliminación. 
+3. Información de Vendedores: 
 a. Nombre 
 b. Email 
 c. Número Telefónico 
 d. Categoría (categorías como "Alimentos orgánicos", "Ropa sustentable", "Artículos reciclados", etc.). 
 4. Vista de listado de Vendedores con paginación (10 por página). 
-5. Iconos en cada fila para ingresar nuevos y ver detalles de los productos. 6. Registro de Productos: 
-a. Nombre del Producto: El nombre único y descriptivo del producto ecológico. b. Descripción: Una breve descripción que resalta las características, materiales y beneficios del producto. 
-c. Precio: El costo del producto para los usuarios que deseen adquirirlo. d. Vendedor asociado al Producto. 
+5. Iconos en cada fila para ingresar nuevos y ver detalles de los productos. 
+6. Registro de Productos: 
+a. Nombre del Producto: El nombre único y descriptivo del producto ecológico. 
+b. Descripción: Una breve descripción que resalta las características, materiales y beneficios del producto. 
+c. Precio: El costo del producto para los usuarios que deseen adquirirlo. 
+d. Vendedor asociado al Producto. 
 e. Certificación ecológica (opcional): Un sello o certificación que valida la autenticidad ecológica del producto. 
 7. Vista de detalles de Productos asociados a Vendedores. 
 8. Enlaces para editar Vendedores en cada fila. 

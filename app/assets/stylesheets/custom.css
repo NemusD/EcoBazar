@@ -1,0 +1,29 @@
+.login-page{
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+/*Formulario de inicio*/
+.login-form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.custom-login-title {
+    font-size: 24px;
+    color: #007bff; 
+    margin-bottom: 20px;
+
+  }
+
+.custom-form-label {
+    font-weight: bold;
+}
+
+.custom-login-button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+}
